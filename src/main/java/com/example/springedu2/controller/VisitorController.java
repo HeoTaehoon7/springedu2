@@ -56,7 +56,7 @@ public class VisitorController {
 
     @GetMapping("/vsearch")
     public ModelAndView vsearch() {
-        // 여기 수정
+        // 여기 수정 할거야
         return null;
     }
 
